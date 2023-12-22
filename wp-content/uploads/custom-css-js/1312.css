@@ -1,0 +1,11 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+body {
+  margin: 0;
+}
+canvas {
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+}</style>
+<!-- end Simple Custom CSS and JS -->
